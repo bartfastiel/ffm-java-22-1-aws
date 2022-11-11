@@ -12,7 +12,7 @@ public class FishController {
 
     @GetMapping
     String get() {
-        return "neuefische";
+        return "altefische";
     }
 
 }
